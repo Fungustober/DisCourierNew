@@ -11,6 +11,10 @@
     --font-display: "Courier Prime", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
 }
 
+/*
+*I sure hope it's not important for these files to be different because I don't know what I'm doing
+*/
+
 @font-face {
     font-family: "Courier Prime";
     font-style: normal;

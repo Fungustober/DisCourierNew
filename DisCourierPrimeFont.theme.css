@@ -30,6 +30,19 @@
 }
 
 @font-face {
+	font-family: "Courier Prime";
+    font-weight: bold;
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Bold.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Courier Prime";
+    font-style: ;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Regular.woff2") format("woff2");
+}
+
+@font-face {
     font-family: "Courier Prime";
     font-style: normal;
     font-weight: 400;
@@ -61,26 +74,26 @@
     font-family: "Courier Prime";
     font-style: normal;
     font-weight: 600;
-    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Regular.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Bold.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Courier Prime";
     font-style: italic;
     font-weight: 600;
-    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Italic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-BoldItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Courier Prime";
     font-style: normal;
     font-weight: 700;
-    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Regular.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Bold.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Courier Prime";
     font-style: italic;
     font-weight: 700;
-    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Italic.woff2") format("woff2");
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-BoldItalic.woff2") format("woff2");
 }
